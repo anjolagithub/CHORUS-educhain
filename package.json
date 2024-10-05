@@ -1,0 +1,30 @@
+{
+  "name": "hardhat-edu-scholarships",
+  "version": "1.0.0",
+  "description": "This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Anjitech",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@nomiclabs/hardhat-ethers": "^1.0.0",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.3",
+    "hardhat": "^2.22.12"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anjolagithub/CHORUS-educhain.git"
+  },
+  "bugs": {
+    "url": "https://github.com/anjolagithub/CHORUS-educhain/issues"
+  },
+  "homepage": "https://github.com/anjolagithub/CHORUS-educhain#readme"
+}
